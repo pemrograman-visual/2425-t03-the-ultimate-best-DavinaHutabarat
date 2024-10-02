@@ -20,7 +20,7 @@ Setiap kali selesai membaca satu rangkai data buku, aplikasi akan menentukan apa
 
 **Input**:
 ```bash
-979-8700048361
+978-8700048361
 The Science of Self-Control
 Menno Henselmans
 2021
